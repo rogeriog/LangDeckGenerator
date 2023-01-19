@@ -1,0 +1,1306 @@
+der Name, die Namen; de; 1
+der Vorname, die Vornamen; de; 1
+der Nachname, die Nachnamen; de; 1
+Wie ist dein Name?; de; 1
+Wie ist Ihr Name?; de; 1
+Mein Name ist Philipp.; de; 1
+Wie heißen Sie?; de; 1
+Wie heißt du?; de; 1
+Ich heiße Franziska.; de; 1
+Wie ist dein Nachname?; de; 1
+Wie ist Ihr Nachname?; de; 1
+Mein Nachname ist Neumann.; de; 1
+Wer sind Sie?; de; 1
+Wer bist du?; de; 1
+Ich bin Franziska.; de; 1
+Nein.; de; 1
+Okay. - aus dem Englischen; de; 1
+Entschuldigung!; de; 1
+Danke. - alternativ: Danke schön./Danke sehr.; de; 1
+Bitte.; de; 1
+Gerne.; de; 1
+Gern geschehen.; de; 1
+Kein Problem.; de; 1
+Das macht nichts!; de; 1
+Herzlichen Glückwunsch!; de; 1
+Viel Glück!; de; 1
+Ich freue mich!; de; 1
+Achtung!; de; 1
+Auf keinen Fall!; de; 1
+Das geht leider nicht.; de; 1
+Hi! - aus dem Englischen; de; 1
+Guten Tag!; de; 1
+Hallo, Herr Richter!; de; 1
+Hello, Mr. Richter!; de; 1
+Guten Morgen, Peter!; de; 1
+Guten Tag, Frau Steller!; de; 1
+Guten Abend, Herr Richter!; de; 1
+Gute Nacht, Anna!; de; 1
+Auf Wiedersehen!; de; 1
+Tschüss!; de; 1
+Wie geht es dir? - alternativ: Wie geht’s dir?; de; 1
+Wie geht es Ihnen?; de; 1
+Mir geht es gut, danke.; de; 1
+Mir geht es nicht so gut.; de; 1
+Mir geht es schlecht.; de; 1
+Ich bin glücklich.; de; 1
+Ich bin müde.; de; 1
+Ich bin erkältet.; de; 1
+Ich bin gestresst.; de; 1
+Ich bin sauer.; de; 1
+Ich bin traurig.; de; 1
+Ich brauche Hilfe.; de; 1
+Woher kommst du?; de; 1
+Woher kommen Sie?; de; 1
+Ich komme aus Russland.; de; 1
+Wir kommen aus der Türkei.; de; 1
+Ich komme aus der Nähe von Berlin.; de; 1
+das Land, die Länder; de; 1
+die Stadt, die Städte; de; 1
+Wo ist das?; de; 1
+Das ist eine Stadt in Deutschland.; de; 1
+Herzlich willkommen!; de; 1
+(das) Asien - nur Singular, selten mit Artikel; de; 1
+(das) Europa - nur Singular, selten mit Artikel; de; 1
+(das) Nordamerika - nur Singular, selten mit Artikel; de; 1
+(das) Südamerika - nur Singular, selten mit Artikel; de; 1
+(das) Australien - nur Singular, selten mit Artikel; de; 1
+Wo wohnst du?; de; 1
+Wo wohnen Sie?; de; 1
+Ich wohne in Berlin.; de; 1
+Das liegt in Ostdeutschland.; de; 1
+Wir wohnen in einem Dorf.; de; 1
+Ich wohne auf dem Land.; de; 1
+Wo ist das?; de; 1
+Das ist in Bayern.; de; 1
+das Bundesland, die Bundesländer; de; 1
+Wie ist die Adresse?; de; 1
+Die Adresse ist: …; de; 1
+Ich wohne in der Bahnhofstraße.; de; 1
+I live on Bahnhofstraße.; de; 1
+Ich wohne bei Freunden.; de; 1
+Wer ist das?; de; 1
+die Familie, die Familien; de; 1
+Das ist meine Familie.; de; 1
+die Mutter, die Mütter; de; 1
+der Vater, die Väter; de; 1
+das Kind, die Kinder; de; 1
+Ich habe keine Kinder.; de; 1
+die Tochter, die Töchter; de; 1
+der Sohn, die Söhne; de; 1
+Ich habe zwei Söhne.; de; 1
+die Schwester, die Schwestern; de; 1
+der Bruder, die Brüder; de; 1
+die Großmutter, die Großmütter; de; 1
+der Großvater, die Großväter; de; 1
+die Ehefrau, die Ehefrauen; de; 1
+der Ehemann, die Ehemänner; de; 1
+Ich bin verheiratet.; de; 1
+Ich möchte Asyl beantragen.; de; 1
+der Flüchtling, die Flüchtlinge; de; 1
+der befristete Aufenthalt - nur Singular; de; 1
+unbefristet; de; 1
+die Duldung, die Duldungen - Plural selten; de; 1
+die Aufenthaltserlaubnis, die Aufenthaltserlaubnisse - Plural selten; de; 1
+Ich habe eine Aufenthaltserlaubnis.; de; 1
+Meine Aufenthaltserlaubnis ist abgelaufen.; de; 1
+Ich möchte sie verlängern.; de; 1
+die Arbeitserlaubnis, die Arbeitserlaubnisse; de; 1
+die Unterschrift, die Unterschriften; de; 1
+der Pass, die Pässe - Kurzform von: Reisepass; de; 1
+die Staatsbürgerschaft, die Staatsbürgerschaften; de; 1
+Entschuldigung, kannst du mir helfen?; de; 1
+Entschuldigung, können Sie mir helfen?; de; 1
+Ja, natürlich.; de; 1
+Ich habe eine Frage.; de; 1
+Wissen Sie, wo das ist?; de; 1
+Leider nicht.; de; 1
+Ich spreche kein Deutsch.; de; 1
+Ich verstehe das nicht.; de; 1
+Was bedeutet das?; de; 1
+Wie bitte?; de; 1
+Können Sie das wiederholen bitte?; de; 1
+Können Sie bitte langsamer sprechen?; de; 1
+Entschuldigung, sprechen Sie Englisch?; de; 1
+Entschuldigung, wo ist die Information?; de; 1
+die deutsche Sprache - nur Singular; de; 1
+der Deutschkurs, die Deutschkurse; de; 1
+Ich möchte mich für einen Kurs anmelden.; de; 1
+Ich möchte Deutsch lernen.; de; 1
+Ich spreche ein bisschen Deutsch.; de; 1
+Ich spreche kein Deutsch.; de; 1
+die Niveaustufe, die Niveaustufen; de; 1
+Ich lerne Deutsch.; de; 1
+der Lehrer, die Lehrer; de; 1
+die Lehrerin, die Lehrerinnen; de; 1
+die Prüfung, die Prüfungen; de; 1
+die Fremdsprache, die Fremdsprachen; de; 1
+Ich spreche Englisch.; de; 1
+Ich spreche Arabisch.; de; 1
+der Beruf, die Berufe; de; 1
+Was machst du beruflich?; de; 1
+Was machen Sie beruflich?; de; 1
+Was bist du von Beruf?; de; 1
+Was sind Sie von Beruf?; de; 1
+Ich bin Bauarbeiter.; de; 1
+Ich bin Polizistin.; de; 1
+Ich bin arbeitslos.; de; 1
+Ich studiere.; de; 1
+Ich mache eine Ausbildung.; de; 1
+arbeiten - arbeitet, arbeitete, hat gearbeitet; de; 1
+die Arbeit - hier nur Singular; de; 1
+Ich suche Arbeit.; de; 1
+der Arzt, die Ärzte; de; 1
+die Ärztin, die Ärztinnen; de; 1
+Ich bin Ärztin.; de; 1
+der Lehrer, die Lehrer; de; 1
+die Lehrerin, die Lehrerinnen; de; 1
+Ich möchte Lehrer werden.; de; 1
+der Erzieher, die Erzieher; de; 1
+die Erzieherin, die Erzieherinnen; de; 1
+die Krankenschwester, die Krankenschwestern; de; 1
+der Journalist, die Journalisten; de; 1
+die Journalistin, die Journalistinnen; de; 1
+der Architekt, die Architekten; de; 1
+die Architektin, die Architektinnen; de; 1
+der Taxifahrer, die Taxifahrer; de; 1
+die Taxifahrerin, die Taxifahrerinnen; de; 1
+die Busfahrerin, die Busfahrerinnen; de; 1
+der Busfahrer, die Busfahrer; de; 1
+der Friseur, die Friseure; de; 1
+der Koch, die Köche; de; 1
+die Köchin, die Köchinnen; de; 1
+der Verkäufer, die Verkäufer; de; 1
+die Verkäuferin, die Verkäuferinnen; de; 1
+der Kfz-Mechatroniker, die Kfz-Mechatroniker; de; 1
+die Kfz-Mechatronikerin, die Kfz-Mechatronikerinnen; de; 1
+die Telefonnummer, die Telefonnummern; de; 1
+Wie ist deine Telefonnummer?; de; 1
+Wie ist Ihre Telefonnummer?; de; 1
+Meine Telefonnummer ist 0735455577.; de; 1
+die E-Mail-Adresse, die E-Mail-Adressen; de; 1
+Kannst du mir deine E-Mail-Adresse geben?; de; 1
+Wie ist Ihre E-Mail-Adresse?; de; 1
+Meine E-Mail-Adresse ist hallo@dw.com.; de; 1
+jemanden an|rufen - ruft an, rief an, hat angerufen; de; 1
+Kann ich dich anrufen?; de; 1
+Kann ich Sie anrufen?; de; 1
+Ich habe kein Handy.; de; 1
+Ich habe keine E-Mail-Adresse.; de; 1
+Bist du auf Facebook?; de; 1
+die Zahl, die Zahlen; de; 1
+eins; de; 1
+zwei; de; 1
+fünf; de; 1
+sechs; de; 1
+sieben; de; 1
+acht; de; 1
+eight; de; 1
+zwölf; de; 1
+dreizehn; de; 1
+vierzehn; de; 1
+fünfzehn; de; 1
+sechzehn; de; 1
+siebzehn; de; 1
+achtzehn; de; 1
+neunzehn; de; 1
+das Jahr, die Jahre; de; 1
+Es ist Januar.; de; 1
+der Februar - nur Singular; de; 1
+der März - nur Singular; de; 1
+der Juli - nur Singular; de; 1
+der August - nur Singular; de; 1
+der September - nur Singular; de; 1
+der Oktober - nur Singular; de; 1
+der November - nur Singular; de; 1
+der Dezember - nur Singular; de; 1
+der Frühling, die Frühlinge - Plural selten; de; 1
+der Herbst, die Herbste - Plural selten; de; 1
+der Winter, die Winter; de; 1
+der Montag, die Montage; de; 1
+der Mittwoch, die Mittwoche; de; 1
+der Donnerstag, die Donnerstage; de; 1
+der Freitag, die Freitage; de; 1
+der Sonntag, die Sonntage; de; 1
+die Woche, die Wochen; de; 1
+diese Woche; de; 1
+nächste Woche; de; 1
+das Wochenende, die Wochenenden; de; 1
+am Wochenende; de; 1
+heute; de; 1
+übermorgen; de; 1
+die Uhr, die Uhren; de; 1
+Entschuldigung, wie viel Uhr ist es?; de; 1
+Entschuldigung, wie spät ist es?; de; 1
+Es ist zwei Uhr.; de; 1
+Es ist 14 Uhr.; de; 1
+Es ist Viertel nach acht.; de; 1
+Es ist halb drei.; de; 1
+Es ist Viertel vor zwölf.; de; 1
+Es ist zwanzig vor zehn.; de; 1
+Es ist zehn nach sieben.; de; 1
+Wir treffen uns um 15 Uhr.; de; 1
+die Stunde, die Stunden; de; 1
+Das dauert eine halbe Stunde.; de; 1
+die Minute, die Minuten; de; 1
+Es dauert fünf Minuten.; de; 1
+Das geht von zwei bis drei Uhr.; de; 1
+Ich stehe um acht Uhr auf.; de; 1
+frühstücken - frühstückt, frühstückte, hat gefrühstückt; de; 1
+Ich putze mir die Zähne.; de; 1
+Ich dusche täglich.; de; 1
+Ich wasche mir die Haare.; de; 1
+Ich ziehe mich an.; de; 1
+Um neun Uhr fahre ich zur Arbeit.; de; 1
+die Mittagspause, die Mittagspausen; de; 1
+Um eins esse ich zu Mittag.; de; 1
+Ich mache um 18:30 Uhr Feierabend.; de; 1
+Ich gehe nach Hause.; de; 1
+nachts; de; 1
+Ich gehe um 22 Uhr ins Bett.; de; 1
+der Termin, die Termine; de; 1
+Ich hatte einen Termin.; de; 1
+Ich muss den Termin leider absagen.; de; 1
+Ich kann leider nicht kommen.; de; 1
+Ich schaffe es leider nicht.; de; 1
+Mir ist etwas dazwischengekommen.; de; 1
+Ich habe einen wichtigen Termin.; de; 1
+Ich habe den Bus verpasst.; de; 1
+Ich komme etwas später.; de; 1
+Können wir das verschieben?; de; 1
+Das ist schade.; de; 1
+Das macht nichts.; de; 1
+Wir machen einen neuen Termin.; de; 1
+der Nahverkehr - nur Singular; de; 1
+der Bus, die Busse; de; 1
+Ich fahre mit dem Bus.; de; 1
+die U-Bahn, die U-Bahnen; de; 1
+Ich nehme die U-Bahn.; de; 1
+die Straßenbahn, die Straßenbahnen; de; 1
+Die Straßenbahn fährt zum Hauptbahnhof.; de; 1
+die Haltestelle, die Haltestellen; de; 1
+Sie müssen hier einsteigen.; de; 1
+Sie müssen hier aussteigen.; de; 1
+Sie müssen hier umsteigen.; de; 1
+das Fahrrad, die Fahrräder - Kurzform: das Rad, die Räder; de; 1
+Ich fahre mit dem Fahrrad.; de; 1
+Ich fahre mit dem Auto.; de; 1
+das Taxi, die Taxis - alternativ: die Taxe, die Taxen; de; 1
+Ich möchte verreisen.; de; 1
+Wohin fährst du?; de; 1
+Ich möchte nach Berlin fahren.; de; 1
+Ich möchte Freunde besuchen.; de; 1
+der Hauptbahnhof, die Hauptbahnhöfe - Abkürzung: Hbf.; de; 1
+der Zug, die Züge; de; 1
+Entschuldigung, fährt der Zug nach Berlin?; de; 1
+Entschuldigung, wann fährt der Zug?; de; 1
+Der Zug fährt um 12:30 Uhr.; de; 1
+Der Zug hat Verspätung.; de; 1
+die Bahn, die Bahnen; de; 1
+Die Bahn fährt nach Potsdam.; de; 1
+der ICE, die ICEs - Abkürzung für: Intercityexpress; de; 1
+Der ICE fährt nach München.; de; 1
+das Flugzeug, die Flugzeuge; de; 1
+Ich fliege nach Ägypten.; de; 1
+die Fähre, die Fähren; de; 1
+die Fahrkarte, die Fahrkarten; de; 1
+das Ticket, die Tickets - aus dem Englischen; de; 1
+Entschuldigung, wo kann ich eine Fahrkarte kaufen?; de; 1
+Entschuldigung, ich brauche ein Ticket nach Berlin.; de; 1
+Entschuldigung, wie viel kostet eine Fahrkarte nach München?; de; 1
+einfache Fahrt; de; 1
+hin und zurück; de; 1
+Ich möchte einen Sitzplatz reservieren bitte.; de; 1
+das Abteil, die Abteile; de; 1
+der Großraumwagen, die Großraumwagen; de; 1
+für die erste Klasse; de; 1
+für die zweite Klasse; de; 1
+am Fenster; de; 1
+das Zentrum, die Zentren; de; 1
+der Marktplatz, die Marktplätze; de; 1
+das Rathaus, die Rathäuser; de; 1
+Entschuldigung, wo ist die Post?; de; 1
+die Schule, die Schulen; de; 1
+Der Supermarkt ist in der Nähe.; de; 1
+Entschuldigung, gibt es hier eine Bank?; de; 1
+der Geldautomat, die Geldautomaten; de; 1
+die Bushaltestelle, die Bushaltestellen; de; 1
+die öffentliche Toilette, die öffentlichen Toiletten; de; 1
+Entschuldigung, wie komme ich zum Hauptbahnhof?; de; 1
+Entschuldigung, kennen Sie diese Adresse?; de; 1
+geradeaus; de; 1
+Gehen Sie geradeaus.; de; 1
+rechts; de; 1
+Biegen Sie rechts ab.; de; 1
+die Straße, die Straßen; de; 1
+Nehmen Sie die nächste Straße links.; de; 1
+an der Kreuzung; de; 1
+der Meter, die Meter; de; 1
+100 Meter; de; 1
+500 Meter; de; 1
+zu Fuß; de; 1
+die Farbe, die Farben; de; 1
+weiß; de; 1
+Das ist weiß.; de; 1
+dunkelblau; de; 1
+grün; de; 1
+schwarz; de; 1
+das Essen, die Essen; de; 1
+Das Essen ist fertig.; de; 1
+Ich habe Hunger.; de; 1
+Guten Appetit!; de; 1
+das Frühstück, die Frühstücke; de; 1
+Wir frühstücken um acht Uhr.; de; 1
+das Mittagessen, die Mittagessen; de; 1
+Um zwölf gibt es Mittagessen.; de; 1
+das Abendessen, die Abendessen; de; 1
+Wir essen um 20 Uhr zu Abend.; de; 1
+der Nachtisch, die Nachtische - Plural selten; de; 1
+dessert; de; 1
+Was gibt’s zum Nachtisch?; de; 1
+Entschuldigung, wo finde ich Waschmittel?; de; 1
+Entschuldigung, was kostet das?; de; 1
+Das macht 10 Euro.; de; 1
+Zahlen Sie bar?; de; 1
+Ich möchte mit Karte zahlen.; de; 1
+Wir akzeptieren keine Kreditkarten.; de; 1
+Das ist ein Sonderangebot.; de; 1
+etwas kaufen - kauft, kaufte, hat gekauft; de; 1
+Ich kaufe Seife.; de; 1
+Das ist zu teuer.; de; 1
+Möchten Sie eine Tüte?; de; 1
+Bitte sehr.; de; 1
+Danke schön.; de; 1
+Ich hätte gerne ein Brot.; de; 1
+der Käse - nur Singular; de; 1
+Ich möchte Käse kaufen.; de; 1
+der Reis - nur Singular; de; 1
+Haben Sie Reis? - nur Singular; de; 1
+die Nudel, die Nudeln - meist im Plural; de; 1
+Wo finde ich Nudeln?; de; 1
+der Joghurt, die Joghurts; de; 1
+das Ei, die Eier; de; 1
+Ich möchte sechs Eier bitte.; de; 1
+die Butter - nur Singular; de; 1
+Ich hätte gerne 100 Gramm Wurst.; de; 1
+das Fleisch; de; 1
+Ich möchte ein halbes Kilo Fleisch.; de; 1
+das Rindfleisch - nur Singular; de; 1
+das Schweinefleisch - nur Singular; de; 1
+das Hähnchen, die Hähnchen; de; 1
+der Fisch, die Fische; de; 1
+das Obst - nur Singular; de; 1
+Ich möchte Obst kaufen.; de; 1
+der Apfel, die Äpfel; de; 1
+Ich möchte ein Kilo Äpfel bitte.; de; 1
+Ein Kilo Bananen bitte.; de; 1
+Fünf Orangen bitte.; de; 1
+die Kirsche, die Kirschen; de; 1
+die Pflaume, die Pflaumen; de; 1
+die Weintraube, die Weintrauben; de; 1
+der Saft, die Säfte (nach Zahl meist: Saft); de; 1
+der Obstsalat, die Obstsalate; de; 1
+das Gemüse - nur Singular; de; 1
+Ich möchte zwei Gurken kaufen.; de; 1
+die Zwiebel, die Zwiebeln; de; 1
+Ein Kilo Zwiebeln bitte.; de; 1
+die Möhre, die Möhren; de; 1
+der Kohl, die Kohle - Plural selten; de; 1
+der Spinat - nur Singular; de; 1
+das Radieschen, die Radieschen; de; 1
+Ich hätte gerne einen Bund Radieschen bitte.; de; 1
+die Aubergine, die Auberginen; de; 1
+Was möchtest du trinken?; de; 1
+Was möchten Sie trinken?; de; 1
+der Tee, die Tees (nach Zahl: Tee); de; 1
+Trinken Sie Tee?; de; 1
+Ich trinke gerne Tee.; de; 1
+der Kaffee, die Kaffees (nach Zahl: Kaffee); de; 1
+Einen Kaffee bitte!; de; 1
+das Wasser - nur Singular; de; 1
+das stille Wasser - nur Singular; de; 1
+der Sprudel - nur Singular; de; 1
+die Apfelschorle, die Apfelschorlen (nach Zahl: Apfelschorle); de; 1
+das Bier, die Biere (nach Zahl: Bier); de; 1
+der Wein, die Weine (nach Zahl: Wein); de; 1
+Was isst du gerne?; de; 1
+Ich esse gerne Reis.; de; 1
+Mein Lieblingsessen ist Pizza.; de; 1
+Ich bin Vegetarier.; de; 1
+Isst du Fleisch?; de; 1
+Ich esse kein Schweinefleisch.; de; 1
+Nein, ich trinke keinen Alkohol.; de; 1
+Das ist süß.; de; 1
+Das ist salzig.; de; 1
+Das ist sauer.; de; 1
+Schmeckt es dir?; de; 1
+Ja, sehr gut!; de; 1
+Das ist lecker.; de; 1
+Nein, das schmeckt mir nicht!; de; 1
+Das schmeckt bitter.; de; 1
+der Rock, die Röcke; de; 1
+das T-Shirt, die T-Shirts; de; 1
+der Gürtel, die Gürtel; de; 1
+der Pullover, die Pullover - Kurzform: der Pulli, die Pullis; de; 1
+der Mantel, die Mäntel; de; 1
+der Hut, die Hüte; de; 1
+die Mütze, die Mützen; de; 1
+das Kopftuch, die Kopftücher; de; 1
+der Schal, die Schals; de; 1
+der Schuh, die Schuhe; de; 1
+der Stiefel, die Stiefel; de; 1
+der Hausschuh, die Hausschuhe; de; 1
+underpants; de; 1
+der BH, die BHs - Abkürzung für: Büstenhalter; de; 1
+das Unterhemd, die Unterhemden; de; 1
+der Schlafanzug, die Schlafanzüge; de; 1
+Eine Nummer größer bitte.; de; 1
+Eine Nummer kleiner bitte.; de; 1
+Das passt mir nicht.; de; 1
+Das ist zu klein.; de; 1
+Das ist zu groß.; de; 1
+Das ist zu lang.; de; 1
+Das ist zu kurz.; de; 1
+Das steht dir gut.; de; 1
+der Arzt, die Ärzte; de; 1
+die Ärztin, die Ärztinnen; de; 1
+Ich möchte einen Termin bitte.; de; 1
+Ich habe Fieber.; de; 1
+Mir ist schwindelig.; de; 1
+Ich habe Schmerzen.; de; 1
+Wo haben Sie Schmerzen?; de; 1
+Welche Tabletten nehmen Sie?; de; 1
+Ich habe Durchfall.; de; 1
+Ich habe Verstopfung.; de; 1
+Ich habe eine Allergie.; de; 1
+Ich habe Diabetes.; de; 1
+Das tut weh.; de; 1
+die Blasenentzündung, die Blasenentzündungen; de; 1
+Der Hals ist entzündet.; de; 1
+die Impfung, die Impfungen; de; 1
+das Rezept, die Rezepte; de; 1
+Gute Besserung!; de; 1
+das Krankenhaus, die Krankenhäuser; de; 1
+die Krankenschwester, die Krankenschwestern; de; 1
+Rufen Sie einen Krankenwagen bitte!; de; 1
+Das ist ein Notfall!; de; 1
+die Notaufnahme, die Notaufnahmen - Plural selten; de; 1
+Was ist passiert?; de; 1
+etwas/jemanden röntgen - röntgt, röntgte, hat geröntgt; de; 1
+der Bruch, die Brüche; de; 1
+Das ist gebrochen.; de; 1
+die Betäubung, die Betäubungen; de; 1
+Sie bekommen eine Spritze.; de; 1
+Wir müssen Blut abnehmen.; de; 1
+die Untersuchung, die Untersuchungen; de; 1
+der Körper, die Körper; de; 1
+der Arm, die Arme; de; 1
+Mein Arm tut weh.; de; 1
+das Bein, die Beine; de; 1
+Mein Bein tut weh.; de; 1
+der Fuß, die Füße; de; 1
+der Finger, die Finger; de; 1
+der Zahn, die Zähne; de; 1
+Ich habe Zahnschmerzen.; de; 1
+der Bauch, die Bäuche; de; 1
+Ich habe Bauchschmerzen.; de; 1
+der Kopf, die Köpfe; de; 1
+Ich habe Kopfschmerzen.; de; 1
+der Rücken, die Rücken; de; 1
+Ich habe Rückenschmerzen.; de; 1
+der Hals, die Hälse; de; 1
+Mein Hals tut weh.; de; 1
+der Frauenarzt, die Frauenärzte; de; 1
+die Frauenärztin, die Frauenärztinnen; de; 1
+die Regel - hier nur Singular; de; 1
+die Tage - hier nur Plural; de; 1
+Ich habe meine Tage.; de; 1
+Ich habe starke Blutungen.; de; 1
+Ich habe Krämpfe.; de; 1
+die Scheide, die Scheiden; de; 1
+die Brust, die Brüste; de; 1
+die Gebärmutter, die Gebärmütter - Plural selten; de; 1
+der Eierstock, die Eierstöcke; de; 1
+der Abstrich, die Abstriche; de; 1
+der Ultraschall, die Ultraschalle - Plural selten; de; 1
+das Verhütungsmittel, die Verhütungsmittel; de; 1
+Nehmen Sie die Pille?; de; 1
+Haben Sie eine Spirale?; de; 1
+der Geschlechtsverkehr - nur Singular; de; 1
+die Schwangerschaft, die Schwangerschaften; de; 1
+der Schwangerschaftstest, die Schwangerschaftstests; de; 1
+Der Schwangerschaftstest ist positiv.; de; 1
+Sie sind schwanger.; de; 1
+die Vorsorgeuntersuchung, die Vorsorgeuntersuchungen; de; 1
+der Ultraschall, die Ultraschalle - Plural selten; de; 1
+Im wievielten Monat sind Sie?; de; 1
+Ich bin im vierten Monat schwanger.; de; 1
+Es wird ein Junge.; de; 1
+Es wird ein Mädchen.; de; 1
+die Wehe, die Wehen; de; 1
+die Geburt, die Geburten; de; 1
+die PDA, die PDAs - Abkürzung für: Periduralanästhesie; de; 1
+der Kaiserschnitt, die Kaiserschnitte; de; 1
+die Fehlgeburt, die Fehlgeburten; de; 1
+Mein Baby ist drei Monate alt.; de; 1
+der Kinderarzt, die Kinderärzte; de; 1
+die Kinderärztin, die Kinderärztinnen; de; 1
+der Schnuller, die Schnuller; de; 1
+das Fläschchen, die Fläschchen; de; 1
+der Kinderwagen, die Kinderwagen; de; 1
+das Kuscheltier, die Kuscheltiere; de; 1
+das Spielzeug - hier nur Singular; de; 1
+Wo können die Kinder spielen?; de; 1
+der Spielplatz, die Spielplätze; de; 1
+der Kindergarten, die Kindergärten; de; 1
+Ich habe keine Betreuung für meine Kinder.; de; 1
+Ich brauche einen Babysitter.; de; 1
+die Wohnung, die Wohnungen; de; 1
+Ich suche eine Wohnung.; de; 1
+das Zimmer, die Zimmer; de; 1
+Wie viele Zimmer hat die Wohnung?; de; 1
+ein Zimmer; de; 1
+die Drei-Zimmer-Wohnung, die Drei-Zimmer-Wohnungen; de; 1
+die Küche, die Küchen; de; 1
+kitchen; de; 1
+das Bad, die Bäder; de; 1
+das Schlafzimmer, die Schlafzimmer; de; 1
+das Wohnzimmer, die Wohnzimmer; de; 1
+der Flur, die Flure; de; 1
+der Keller, die Keller; de; 1
+Wie hoch ist die Miete?; de; 1
+die Nebenkosten - nur Plural; de; 1
+Wie hoch sind die Nebenkosten?; de; 1
+der Mietvertrag, die Mietverträge; de; 1
+Sie müssen den Mietvertrag unterschreiben.; de; 1
+das Möbel, die Möbel - meist im Plural; de; 1
+das Bett, die Betten; de; 1
+Ich suche ein Bett.; de; 1
+der Stuhl, die Stühle; de; 1
+Wir brauchen vier Stühle.; de; 1
+der Tisch, die Tische; de; 1
+der Teppich, die Teppiche; de; 1
+der Vorhang, die Vorhänge; de; 1
+der Fernseher, die Fernseher; de; 1
+Ich möchte einen Herd kaufen.; de; 1
+der Kühlschrank, die Kühlschränke; de; 1
+die Waschmaschine, die Waschmaschinen; de; 1
+der Staubsauger, die Staubsauger; de; 1
+Können Sie das reparieren bitte?; de; 1
+Das Licht geht nicht.; de; 1
+Das Licht geht wieder.; de; 1
+Die Heizung funktioniert nicht.; de; 1
+Die Heizung ist wieder in Ordnung.; de; 1
+Der Wasserhahn tropft.; de; 1
+Das Wasser läuft nicht ab.; de; 1
+Der Abfluss ist verstopft.; de; 1
+Die Waschmaschine ist kaputt.; de; 1
+Das Fenster geht nicht zu.; de; 1
+Die Internetverbindung funktioniert nicht.; de; 1
+das Rohr, die Rohre; de; 1
+der Hausmeister, die Hausmeister; de; 1
+die Hausmeisterin, die Hausmeisterinnen; de; 1
+Das ist sauber.; de; 1
+Das ist schmutzig.; de; 1
+das Putzmittel, die Putzmittel; de; 1
+der Putzlappen, die Putzlappen; de; 1
+Ich muss die Küche putzen.; de; 1
+Du musst die Wohnung aufräumen.; de; 1
+(etwas) fegen - fegt, fegte, hat gefegt; de; 1
+(etwas) wischen - wischt, wischte, hat gewischt; de; 1
+Kannst du spülen bitte?; de; 1
+Ich muss staubsaugen.; de; 1
+Wo ist der Staubsauger?; de; 1
+Kannst du den Müll bitte rausbringen?; de; 1
+Ich gehe zur Bank.; de; 1
+Ich möchte ein Konto eröffnen.; de; 1
+der Kontoauszug, die Kontoauszüge; de; 1
+die Überweisung, die Überweisungen; de; 1
+Ich möchte Geld überweisen.; de; 1
+Ich muss Geld abheben.; de; 1
+der Zins, die Zinsen - meist im Plural; de; 1
+die IBAN, die IBANs - Abkürzung für: International Bank Account Number; de; 1
+die Geheimzahl, die Geheimzahlen; de; 1
+Wie ist das Wetter?; de; 1
+Das Wetter ist gut.; de; 1
+Die Sonne scheint.; de; 1
+Das Wetter ist schlecht.; de; 1
+Ich brauche einen Regenschirm.; de; 1
+Ich friere.; de; 1
+Es schneit.; de; 1
+der Wind, die Winde - Plural selten; de; 1
+Es ist windig.; de; 1
+Mir ist heiß.; de; 1
+Heute sind es minus 5 Grad.; de; 1
+Zieh dich warm an.; de; 1
+die Freizeit - nur Singular; de; 1
+Was machst du in deiner Freizeit?; de; 1
+Ich spiele Fußball.; de; 1
+Ich tanze gern.; de; 1
+Ich gehe spazieren.; de; 1
+Ich gehe joggen.; de; 1
+Ich gehe schwimmen.; de; 1
+Ich gehe klettern.; de; 1
+Ich gehe wandern.; de; 1
+Ich fahre gern Fahrrad.; de; 1
+Ich gehe ins Fitnessstudio.; de; 1
+Ich schwimme gern.; de; 1
+Ich fahre gerne Ski.; de; 1
+Was sind deine Hobbys?; de; 1
+Ich lese gern.; de; 1
+Ich koche gern.; de; 1
+Ich höre gerne Musik.; de; 1
+Ich singe gern.; de; 1
+Ich gehe gern ins Kino.; de; 1
+Ich gehe gern ins Theater.; de; 1
+Ich male gern.; de; 1
+Ich gehe gern ins Museum.; de; 1
+Ich surfe im Internet.; de; 1
+Ich spiele Computerspiele.; de; 1
+Ich treffe mich mit Freunden.; de; 1
+Ich gehe gern shoppen.; de; 1
+Ich höre lieber Musik.; de; 1
+der Rechner, die Rechner; de; 1
+der Computer, die Computer - aus dem Englischen; de; 1
+Kann ich deinen Rechner benutzen?; de; 1
+das Tablet, die Tablets - aus dem Englischen; de; 1
+Ich habe ein Tablet.; de; 1
+die Maus, die Mäuse; de; 1
+Ich mache den Rechner an.; de; 1
+Ich fahre den Rechner runter.; de; 1
+Ich speichere die Datei.; de; 1
+Ich lösche die Datei.; de; 1
+Ich erstelle einen Ordner.; de; 1
+der USB-Stick, die USB-Sticks; de; 1
+Ich habe die Datei auf einem Stick.; de; 1
+der Drucker, die Drucker; de; 1
+Können Sie das für mich ausdrucken?; de; 1
+Entschuldigung, gibt es hier WLAN?; de; 1
+Wie ist das Passwort?; de; 1
+Ich habe kein Internet.; de; 1
+Ich habe kein Netz.; de; 1
+Ich logge mich ein.; de; 1
+Du musst dich anmelden.; de; 1
+Du musst dich ausloggen.; de; 1
+Hast du dich abgemeldet?; de; 1
+die Webseite, die Webseiten - alternativ: die Website, die Websites; de; 1
+Ich muss eine Mail schicken.; de; 1
+Ich kann die Datei nicht herunterladen.; de; 1
+Ich möchte eine App installieren.; de; 1
+Kannst du den Link teilen?; de; 1
+(der) Fußball - hier nur Singular, selten mit Artikel; de; 1
+Ich gehe ins Stadion.; de; 1
+das Spiel, die Spiele; de; 1
+die Mannschaft, die Mannschaften; de; 1
+der Stürmer, die Stürmer; de; 1
+die Stürmerin, die Stürmerinnen; de; 1
+Er schießt ein Tor.; de; 1
+der Verteidiger, die Verteidiger; de; 1
+der Schiedsrichter, die Schiedsrichter; de; 1
+die Schiedsrichterin, die Schiedsrichterinnen; de; 1
+Es steht unentschieden.; de; 1
+Für wen bist du?; de; 1
+Was ist deine Lieblingsmannschaft?; de; 1
+der Fan, die Fans - aus dem Englischen; de; 1
+Wir gehen feiern.; de; 1
+Sollen wir ausgehen?; de; 1
+Ich treffe mich mit Freunden.; de; 1
+das Wochenende, die Wochenenden; de; 1
+Lass uns in die Kneipe gehen.; de; 1
+Möchtest du tanzen?; de; 1
+Wir gehen in den Club.; de; 1
+der Cocktail, die Cocktails - aus dem Englischen; de; 1
+das Bier, die Biere (nach Zahl: Bier); de; 1
+Ich gebe dir einen aus.; de; 1
+Du bist betrunken.; de; 1
+Wohin gehst du?; de; 1
+Ich gehe zum Supermarkt.; de; 1
+Ich gehe zur Apotheke.; de; 1
+Ich gehe zur Bank.; de; 1
+Ich gehe zu meinem Vater.; de; 1
+Ich gehe zum Arzt.; de; 1
+Ich gehe zum Auto.; de; 1
+Ich gehe in die Bibliothek.; de; 1
+Ich gehe in den Park.; de; 1
+Ich gehe ins Büro.; de; 1
+Ich gehe ins Kino.; de; 1
+das Restaurant, die Restaurants - aus dem Französischen; de; 1
+die Hauptspeise, die Hauptspeisen; de; 1
+der Nachtisch, die Nachtische - Plural selten; de; 1
+dessert; de; 1
+Ich nehme eine Suppe.; de; 1
+Haben Sie Salat?; de; 1
+Ich hätte gern ein Schnitzel.; de; 1
+Wir haben kein Schnitzel.; de; 1
+Wir haben heute Spaghetti.; de; 1
+Ich nehme das Menü 1.; de; 1
+Die Rechnung bitte!; de; 1
+Ich möchte gerne zahlen.; de; 1
+Zusammen oder getrennt?; de; 1
+Wir möchten getrennt zahlen bitte.; de; 1
+die Schokolade - nur Singular; de; 1
+Ich esse gerne Schokolade.; de; 1
+das Gummibärchen, die Gummibärchen; de; 1
+Eine Kugel Eis bitte!; de; 1
+der Kuchen, die Kuchen; de; 1
+das Bonbon, die Bonbons - aus dem Französischen; de; 1
+das Kaugummi, die Kaugummis - alternativ: der Kaugummi, die Kaugummis; de; 1
+der Chip, die Chips - meist im Plural, aus dem Englischen; de; 1
+die Erdnuss, die Erdnüsse; de; 1
+das Popcorn - nur Singular, aus dem Englischen; de; 1
+Wir kochen zusammen.; de; 1
+Ich schneide die Zwiebeln.; de; 1
+Du schälst die Kartoffeln.; de; 1
+der Topf, die Töpfe; de; 1
+die Pfanne, die Pfannen; de; 1
+Ich brate die Kartoffeln.; de; 1
+Alles gut umrühren.; de; 1
+Mit Salz und Pfeffer würzen.; de; 1
+Wir backen einen Kuchen.; de; 1
+Wir fügen Mehl hinzu.; de; 1
+der Liter, die Liter; de; 1
+Liter; de; 1
+ein Liter; de; 1
+das Gramm, die Gramme (nach Zahl: Gramm); de; 1
+der Teelöffel, die Teelöffel; de; 1
+ein Teelöffel; de; 1
+Wir müssen den Ofen vorheizen.; de; 1
+Kannst du den Tisch decken?; de; 1
+die Tischdecke, die Tischdecken; de; 1
+der Teller, die Teller; de; 1
+Ich stelle den Teller auf den Tisch.; de; 1
+der Suppenteller, die Suppenteller; de; 1
+das Geschirr - hier nur Singular; de; 1
+das Besteck, die Bestecke; de; 1
+das Messer, die Messer; de; 1
+Ich lege die Gabel neben das Messer.; de; 1
+der Löffel, die Löffel; de; 1
+das Glas, die Gläser; de; 1
+Ich räume den Tisch ab.; de; 1
+das Frühstück, die Frühstücke; de; 1
+Wir frühstücken um 8 Uhr.; de; 1
+Ich trinke einen Kaffee.; de; 1
+Ich möchte einen Orangensaft.; de; 1
+Wie möchtest du dein Ei?; de; 1
+Ich möchte ein hartgekochtes Ei.; de; 1
+eine Scheibe Brot; de; 1
+Ich nehme ein Brötchen.; de; 1
+die Butter - nur Singular; de; 1
+der Honig, die Honige - Plural selten; de; 1
+Ich mag Frischkäse.; de; 1
+Ich esse gerne Leberwurst.; de; 1
+Ich esse ein Müsli mit Milch.; de; 1
+Wer bist du?; de; 1
+Wie geht es dir? - alternativ: Wie geht’s dir?; de; 1
+Was ist das?; de; 1
+Wo wohnst du?; de; 1
+Warum lachst du?; de; 1
+Wann öffnet der Supermarkt?; de; 1
+Wohin gehst du?; de; 1
+Woher kommst du?; de; 1
+Wen suchst du?; de; 1
+Für wen ist das?; de; 1
+Von wem ist das Lied?; de; 1
+Wem gehört das?; de; 1
+Die Fabrik ist hässlich.; de; 1
+Die Blume ist schön.; de; 1
+Der Zug ist schnell.; de; 1
+Die Schnecke ist langsam.; de; 1
+Der Stein ist schwer.; de; 1
+Die Feder ist leicht.; de; 1
+Das Holz ist hart.; de; 1
+Das Kissen ist weich.; de; 1
+Der Film ist langweilig.; de; 1
+Das Buch ist interessant.; de; 1
+Der Schuh ist alt.; de; 1
+Der Schuh ist neu.; de; 1
+Das ist unser Haus.; de; 1
+das Erdgeschoss, die Erdgeschosse - Abkürzung: EG; de; 1
+die Etage, die Etagen - aus dem Französischen; de; 1
+Die Wohnung ist im ersten Stock.; de; 1
+das Dach, die Dächer; de; 1
+Er wohnt unter dem Dach.; de; 1
+der Keller, die Keller; de; 1
+die Haustür, die Haustüren; de; 1
+der Hinterhof, die Hinterhöfe; de; 1
+Das ist die Küche.; de; 1
+der Backofen, die Backöfen; de; 1
+die Kaffeemaschine, die Kaffeemaschinen; de; 1
+der Toaster, die Toaster; de; 1
+der Wasserkocher, die Wasserkocher; de; 1
+die Steckdose, die Steckdosen; de; 1
+die Spülmaschine, die Spülmaschinen; de; 1
+das Spülbecken, die Spülbecken; de; 1
+der Kühlschrank, die Kühlschränke; de; 1
+das Gefrierfach, die Gefrierfächer; de; 1
+Der Mülleimer ist voll.; de; 1
+Das ist das Wohnzimmer.; de; 1
+das Bücherregal, die Bücherregale; de; 1
+der Sessel, die Sessel; de; 1
+die Couch, die Couches - alternativer Plural: die Couchen; de; 1
+Ich sitze gerne auf der Couch.; de; 1
+die Stehlampe, die Stehlampen; de; 1
+der Teppich, die Teppiche; de; 1
+das Bild, die Bilder; de; 1
+Ich hänge das Bild auf.; de; 1
+der Fernseher, die Fernseher; de; 1
+Machst du den Fernseher an?; de; 1
+der DVD-Player, die DVD-Player; de; 1
+Wo ist die Fernbedienung?; de; 1
+Das ist das Schlafzimmer.; de; 1
+das Bett, die Betten; de; 1
+Wir schlafen in einem Doppelbett.; de; 1
+die Bettdecke, die Bettdecken; de; 1
+die Matratze, die Matratzen; de; 1
+Die Matratze ist hart.; de; 1
+der Nachttisch, die Nachttische; de; 1
+die Nachttischlampe, die Nachttischlampen; de; 1
+der Kleiderschrank, die Kleiderschränke; de; 1
+die Jalousie, die Jalousien - aus dem Französischen; de; 1
+Das ist das Badezimmer.; de; 1
+das Waschbecken, die Waschbecken; de; 1
+der Spiegel, die Spiegel; de; 1
+die Bürste, die Bürsten; de; 1
+die Zahnbürste, die Zahnbürsten; de; 1
+die Zahnpasta, die Zahnpasten - Plural selten; de; 1
+die Dusche, die Duschen; de; 1
+Ich gehe duschen.; de; 1
+das Duschgel, die Duschgels - alternativer Plural: die Duschgele, Plural selten; de; 1
+das Handtuch, die Handtücher; de; 1
+ein frisches Handtuch; de; 1
+das Make-up - nur Singular, aus dem Englischen; de; 1
+die Wimperntusche - nur Singular; de; 1
+Ich schminke meine Augen.; de; 1
+der Lippenstift, die Lippenstifte; de; 1
+der Lidschatten - nur Singular; de; 1
+der Lidstrich - nur Singular; de; 1
+der Eyeliner, die Eyeliner - aus dem Englischen; de; 1
+das Rouge - nur Singular, aus dem Französischen; de; 1
+das Puder - nur Singular, alternativ: der Puder; de; 1
+der Nagellack - nur Singular; de; 1
+Ich lackiere meine Nägel.; de; 1
+der Friseur, die Friseure; de; 1
+Ich lasse mir die Haare schneiden.; de; 1
+die Schere, die Scheren; de; 1
+der Kamm, die Kämme; de; 1
+Einmal waschen und schneiden bitte.; de; 1
+Nur die Spitzen schneiden bitte.; de; 1
+der Zopf, die Zöpfe; de; 1
+Ich möchte eine neue Haarfarbe.; de; 1
+Ich möchte gerne Strähnchen haben.; de; 1
+der Föhn, die Föhne; de; 1
+Er ist groß.; de; 1
+Sie ist klein.; de; 1
+Er ist dick.; de; 1
+Er ist dünn.; de; 1
+Er ist alt.; de; 1
+Sie ist jung.; de; 1
+Sie ist hübsch.; de; 1
+Er hat kurze schwarze Haare.; de; 1
+Sie hat braune Haare.; de; 1
+Er ist blond.; de; 1
+Sie hat grüne Augen.; de; 1
+Ich muss telefonieren.; de; 1
+der Anruf, die Anrufe; de; 1
+die Durchwahl, die Durchwahlen - Plural selten; de; 1
+Wählen Sie bitte die Durchwahl 123.; de; 1
+Wie ist die Telefonnummer?; de; 1
+Guten Tag, hier spricht Philipp Neumann.; de; 1
+Könnte ich bitte Frau Steller sprechen?; de; 1
+Frau Steller ist leider nicht da.; de; 1
+der Anrufbeantworter, die Anrufbeantworter; de; 1
+answering machine; de; 1
+die Mailbox, die Mailboxen - aus dem Englischen; de; 1
+Hinterlassen Sie bitte eine Nachricht.; de; 1
+Frau Steller ruft Sie zurück.; de; 1
+Auf Wiederhören!; de; 1
+das Alphabet, die Alphabete; de; 1
+Können Sie das bitte buchstabieren?; de; 1
+Wie schreibt man das?; de; 1
+Das schreibt man mit B.; de; 1
+B wie Berta.; de; 1
+die Schule, die Schulen; de; 1
+Sie geht zur Schule.; de; 1
+der Schüler, die Schüler; de; 1
+die Schülerin, die Schülerinnen; de; 1
+der Lehrer, die Lehrer; de; 1
+die Lehrerin, die Lehrerinnen; de; 1
+der Unterricht - nur Singular; de; 1
+der Stundenplan, die Stundenpläne; de; 1
+das Fach, die Fächer; de; 1
+die Hausaufgabe, die Hausaufgaben; de; 1
+Sie muss einen Test schreiben.; de; 1
+Wow, er hat eine Eins bekommen!; de; 1
+Oh, er hat eine Sechs bekommen!; de; 1
+das Zeugnis, die Zeugnisse; de; 1
+sitzen|bleiben - bleibt sitzen, blieb sitzen, ist sitzengeblieben; de; 1
+Er ist sitzengeblieben.; de; 1
+der Elternsprechtag, die Elternsprechtage; de; 1
+die Schulferien (Plural) - nur Plural; de; 1
+das Klassenzimmer, die Klassenzimmer; de; 1
+Die Schüler sind im Klassenzimmer.; de; 1
+das Schulbuch, die Schulbücher; de; 1
+das Heft, die Hefte; de; 1
+der Füller, die Füller; de; 1
+der Bleistift, die Bleistifte; de; 1
+der Spitzer, die Spitzer; de; 1
+der Schulranzen, die Schulranzen; de; 1
+die Turnhalle, die Turnhallen; de; 1
+der Schulhof, die Schulhöfe; de; 1
+Wir haben Pause.; de; 1
+Ich esse mein Pausenbrot.; de; 1
+die Universität, die Universitäten - Kurzform: die Uni, die Unis; de; 1
+der Student, die Studenten; de; 1
+die Studentin, die Studentinnen; de; 1
+die Studienberatung, die Studienberatungen; de; 1
+der Numerus clausus - nur Singular, Abkürzung: NC; de; 1
+Ich möchte mich für Psychologie einschreiben.; de; 1
+das Semester, die Semester; de; 1
+der Studentenausweis, die Studentenausweise; de; 1
+der Professor, die Professoren; de; 1
+die Professorin, die Professorinnen; de; 1
+Sie hält eine Vorlesung.; de; 1
+der Hörsaal, die Hörsäle; de; 1
+Ich besuche ein Seminar.; de; 1
+der Creditpoint, die Creditpoints - aus dem Englischen; de; 1
+Für den Kurs bekomme ich zwei Creditpoints.; de; 1
+Ich muss eine Hausarbeit schreiben.; de; 1
+Ich habe die Klausur bestanden.; de; 1
+Ich studiere Germanistik.; de; 1
+Ich bin im ersten Semester.; de; 1
+Ich studiere auf Lehramt.; de; 1
+Ich schreibe meine Bachelorarbeit.; de; 1
+Ich habe einen Bachelor in Geschichte.; de; 1
+Ich schreibe meine Masterarbeit.; de; 1
+Ich habe einen Master in Mathematik.; de; 1
+Ich habe mein Maschinenbau-Studium abgebrochen.; de; 1
+Ich habe mein Jura-Studium abgeschlossen.; de; 1
+Ich schreibe meine Doktorarbeit.; de; 1
+Ich mache meinen Doktor in Physik.; de; 1
+Ich habe einen Doktortitel in Medizin.; de; 1
+die Bewerbung, die Bewerbungen; de; 1
+Ich habe mich auf die Stelle beworben.; de; 1
+das Anschreiben, die Anschreiben; de; 1
+der Lebenslauf, die Lebensläufe; de; 1
+das Bewerbungsfoto, die Bewerbungsfotos; de; 1
+das Arbeitszeugnis, die Arbeitszeugnisse; de; 1
+das Sprachzertifikat, die Sprachzertifikate; de; 1
+die Stellenanzeige, die Stellenanzeigen; de; 1
+das Vorstellungsgespräch, die Vorstellungsgespräche; de; 1
+Ich habe eine Absage bekommen.; de; 1
+die Zusage, die Zusagen; de; 1
+Ich habe den Job!; de; 1
+die Personalabteilung, die Personalabteilungen; de; 1
+Ich unterschreibe den Arbeitsvertrag.; de; 1
+der Chef, die Chefs; de; 1
+die Chefin, die Chefinnen; de; 1
+der Angestellte, die Angestellten - mit unbestimmtem Artikel: ein Angestellter, Angestellte; de; 1
+die Angestellte, die Angestellten - mit unbestimmtem Artikel: eine Angestellte, Angestellte; de; 1
+das Büro, die Büros; de; 1
+der Kollege, die Kollegen; de; 1
+Ich habe nette Kollegen.; de; 1
+die Arbeitszeit, die Arbeitszeiten; de; 1
+Überstunden machen; de; 1
+die Mittagspause, die Mittagspausen; de; 1
+der Feierabend, die Feierabende; de; 1
+Ich mache jetzt Feierabend.; de; 1
+Ich nehme mir frei.; de; 1
+Ich muss mich krankmelden.; de; 1
+Ich kündige.; de; 1
+die Vollzeit - nur Singular; de; 1
+die Teilzeit - nur Singular; de; 1
+Ich arbeite Teilzeit.; de; 1
+die Festanstellung, die Festanstellungen; de; 1
+Ich bin fest angestellt.; de; 1
+Wir sind selbständig.; de; 1
+die Schwarzarbeit - nur Singular; de; 1
+Er arbeitet schwarz.; de; 1
+der Stundenlohn, die Stundenlöhne; de; 1
+das Gehalt, die Gehälter; de; 1
+die Gehaltsabrechnung, die Gehaltsabrechnungen; de; 1
+Ich verdiene zu wenig Geld.; de; 1
+die Rentenversicherung, die Rentenversicherungen; de; 1
+die Arbeitslosenversicherung, die Arbeitslosenversicherungen; de; 1
+Was machst du in den Ferien?; de; 1
+Ich verreise.; de; 1
+Ich besuche meine Familie.; de; 1
+der Urlaub, die Urlaube; de; 1
+Wann machst du Urlaub?; de; 1
+Ich mache im August Urlaub.; de; 1
+Wo machst du Urlaub?; de; 1
+Ich mache Urlaub am Strand.; de; 1
+Ich gehe wandern.; de; 1
+Ich bleibe zu Hause.; de; 1
+Ich ruhe mich aus.; de; 1
+Ich renoviere die Wohnung.; de; 1
+Ich mache ein Praktikum.; de; 1
+die Pension, die Pensionen - aus dem Französischen; de; 1
+die Jugendherberge, die Jugendherbergen; de; 1
+das Einzelzimmer, die Einzelzimmer; de; 1
+das Doppelzimmer, die Doppelzimmer; de; 1
+das Mehrbettzimmer, die Mehrbettzimmer; de; 1
+Ich möchte ein Zimmer reservieren.; de; 1
+vom 10. bis zum 24. August; de; 1
+vom 15. auf den 16. Dezember; de; 1
+Das Hotel ist ausgebucht.; de; 1
+Es ist noch ein Zimmer frei.; de; 1
+ein Zimmer mit Bad und WC; de; 1
+Ich habe das Zimmer gebucht.; de; 1
+Ich möchte die Buchung stornieren.; de; 1
+die Handtasche, die Handtaschen; de; 1
+das Portemonnaie, die Portemonnaies - aus dem Französischen; de; 1
+der Schlüssel, die Schlüssel; de; 1
+der Kopfhörer, die Kopfhörer; de; 1
+die Schminke, die Schminken - Plural selten; de; 1
+das Taschentuch, die Taschentücher; de; 1
+handkerchief; de; 1
+der Pass, die Pässe - Kurzform von: Reisepass; de; 1
+der Regenschirm, die Regenschirme; de; 1
+die Zigarette, die Zigaretten; de; 1
+das Feuerzeug, die Feuerzeuge; de; 1
+der Kugelschreiber, die Kugelschreiber - Kurzform: der Kuli, die Kulis; de; 1
+das Buch, die Bücher; de; 1
+Wir müssen die Reifen wechseln.; de; 1
+die Kupplung, die Kupplungen; de; 1
+das Lenkrad, die Lenkräder; de; 1
+der Tacho, die Tachos - Kurzform von: der Tachometer, die Tachometer; de; 1
+der Sitz, die Sitze; de; 1
+der Gurt, die Gurte; de; 1
+Hast du dich angeschnallt?; de; 1
+das Benzin - nur Singular; de; 1
+der Gebrauchtwagen, die Gebrauchtwagen; de; 1
+der TÜV - nur Singular, Abkürzung für: Technischer Überwachungsverein; de; 1
+der Führerschein, die Führerscheine; de; 1
+den Führerschein machen; de; 1
+das Fahrrad, die Fahrräder - Kurzform: das Rad, die Räder; de; 1
+der Reifen, die Reifen; de; 1
+Ich habe einen Platten.; de; 1
+das Flickzeug - nur Singular; de; 1
+der Sattel, die Sättel; de; 1
+die Gangschaltung, die Gangschaltungen; de; 1
+das Vorderlicht, die Vorderlichter; de; 1
+Das Rücklicht geht nicht.; de; 1
+der Fahrradhelm, die Fahrradhelme; de; 1
+das Fahrradschloss, die Fahrradschlösser; de; 1
+Ich stelle das Fahrrad ab.; de; 1
+Ich muss mein Fahrrad abschließen.; de; 1
+die Polizei; de; 1
+Können Sie sich ausweisen?; de; 1
+der Personalausweis, die Personalausweise; de; 1
+die Fahrzeugpapiere - nur Plural; de; 1
+der Unfall, die Unfälle; de; 1
+Ich möchte einen Unfall melden.; de; 1
+der Zeuge, die Zeugen; de; 1
+die Zeugin, die Zeuginnen; de; 1
+der Diebstahl, die Diebstähle; de; 1
+Mein Portemonnaie wurde gestohlen.; de; 1
+der Einbruch, die Einbrüche; de; 1
+die Wertsache, die Wertsachen - meist im Plural; de; 1
+Ich möchte eine Aussage machen.; de; 1
+der Täter, die Täter; de; 1
+die Täterin, die Täterinnen; de; 1
+Können Sie den Täter beschreiben?; de; 1
+die Körperverletzung - nur Singular; de; 1
+Möchten Sie eine Anzeige erstatten?; de; 1
+Füllen Sie das Formular aus.; de; 1
+der Familienstand - nur Singular; de; 1
+der Antrag, die Anträge; de; 1
+Unterschreiben Sie hier.; de; 1
+die Unterschrift, die Unterschriften; de; 1
+Haben Sie alle Unterlagen dabei?; de; 1
+die Anmeldung, die Anmeldungen; de; 1
+die Geburtsurkunde, die Geburtsurkunden; de; 1
+Ziehen Sie eine Wartenummer.; de; 1
+das Ausländeramt, die Ausländerämter; de; 1
+das Einwohnermeldeamt, die Einwohnermeldeämter; de; 1
+das Standesamt, die Standesämter; de; 1
+die Wahl, die Wahlen; de; 1
+Ich gehe wählen.; de; 1
+Ich wähle eine Partei.; de; 1
+der Politiker, die Politiker; de; 1
+der Bundestag - nur Singular; de; 1
+Bundestag; de; 1
+Die Bundeskanzlerin hält eine Rede.; de; 1
+der Bundespräsident, die Bundespräsidenten; de; 1
+die Bundespräsidentin, die Bundespräsidentinnen; de; 1
+der Minister, die Minister; de; 1
+die Ministerin, die Ministerinnen; de; 1
+das Gesetz, die Gesetze; de; 1
+das Grundgesetz - nur Singular; de; 1
+die Europäische Union - nur Singular, Abkürzung: EU; de; 1
+das Tier, die Tiere; de; 1
+die Kuh, die Kühe; de; 1
+das Schwein, die Schweine; de; 1
+das Pferd, die Pferde; de; 1
+das Huhn, die Hühner; de; 1
+das Haustier, die Haustiere; de; 1
+die Katze, die Katzen; de; 1
+das Tierfutter - nur Singular; de; 1
+Ich füttere die Katzen.; de; 1
+der Hund, die Hunde; de; 1
+Ich gehe mit dem Hund Gassi.; de; 1
+der Fisch, die Fische; de; 1
+die Natur - hier nur Singular; de; 1
+Ich bin gerne in der Natur.; de; 1
+die Landschaft, die Landschaften; de; 1
+die Umwelt - nur Singular; de; 1
+der Umweltschutz - nur Singular; de; 1
+Das Klima verändert sich.; de; 1
+Wir fahren ans Meer.; de; 1
+der Strand, die Strände; de; 1
+der Fluss, die Flüsse; de; 1
+Ich gehe am Fluss spazieren.; de; 1
+der Wald, die Wälder; de; 1
+Ich gehe im Wald spazieren.; de; 1
+der Berg, die Berge; de; 1
+die Pflanze, die Pflanzen; de; 1
+die Zimmerpflanze, die Zimmerpflanzen; de; 1
+Ich habe viele Zimmerpflanzen in meinem Wohnzimmer.; de; 1
+der Baum, die Bäume; de; 1
+der Tannenbaum, die Tannenbäume; de; 1
+der Busch, die Büsche; de; 1
+Ich gieße die Blumen.; de; 1
+Ich schenke dir Rosen.; de; 1
+der Pilz, die Pilze; de; 1
+das Gras - hier nur Singular; de; 1
+der Ast, die Äste; de; 1
+das Blatt, die Blätter; de; 1
+die Wurzel, die Wurzeln; de; 1
+der Freund, die Freunde; de; 1
+die Freundin, die Freundinnen; de; 1
+Du bist meine beste Freundin.; de; 1
+Wir sind befreundet.; de; 1
+der Partner, die Partner; de; 1
+die Partnerin, die Partnerinnen; de; 1
+der Bekannte, die Bekannten - mit unbestimmtem Artikel: ein Bekannter, Bekannte; de; 1
+die Bekannte, die Bekannten - mit unbestimmtem Artikel: eine Bekannte, Bekannte; de; 1
+Sie ist eine Bekannte von mir.; de; 1
+Wo habt ihr euch kennengelernt?; de; 1
+der Kollege, die Kollegen; de; 1
+Wir sind Kollegen.; de; 1
+der Mitschüler, die Mitschüler; de; 1
+die Mitschülerin, die Mitschülerinnen; de; 1
+der Nachbar, die Nachbarn; de; 1
+die Nachbarin, die Nachbarinnen; de; 1
+der Fremde, die Fremden - mit unbestimmtem Artikel: ein Fremder, Fremde; de; 1
+die Fremde, die Fremden - mit unbestimmtem Artikel: eine Fremde, Fremde; de; 1
+Ich kenne ihn nicht.; de; 1
+die Liebe - nur Singular; de; 1
+Ich bin Single.; de; 1
+Ich bin in einer Beziehung.; de; 1
+der Freund, die Freunde; de; 1
+die Freundin, die Freundinnen; de; 1
+Ich mag dich.; de; 1
+Ich habe mich verliebt.; de; 1
+Darf ich dich küssen?; de; 1
+Ich liebe dich.; de; 1
+Sollen wir zusammenziehen?; de; 1
+Willst du mich heiraten?; de; 1
+Wir sind verheiratet.; de; 1
+Gut gemacht!; de; 1
+Das gefällt mir!; de; 1
+Danke für deine Mühe.; de; 1
+Das ist ein großer Erfolg!; de; 1
+die Kritik - hier nur Singular; de; 1
+Das ist leider nicht so gut.; de; 1
+Das gefällt mir nicht.; de; 1
+Hier ist ein Fehler.; de; 1
+Kannst du das korrigieren?; de; 1
+Wir müssen miteinander reden.; de; 1
+Das war ein Missverständnis.; de; 1
+Was hast du gesagt?; de; 1
+Was ist deine Meinung?; de; 1
+Ich finde das gut.; de; 1
+das Gespräch, die Gespräche; de; 1
+(jemandem/etwas) zu|stimmen - stimmt zu, stimmte zu, hat zugestimmt; de; 1
+(etwas) ab|lehnen - lehnt ab, lehnte ab, hat abgelehnt; de; 1
+sich streiten - streitet, stritt, hat gestritten; de; 1
+Ich rufe dich morgen an.; de; 1
+(jemandem etwas) mailen - mailt, mailte, hat gemailt, aus dem Englischen; de; 1
+Ich schreibe dir eine Mail.; de; 1
+Hast du meine Mail bekommen?; de; 1
+Ich bin schüchtern.; de; 1
+Sie ist selbstbewusst.; de; 1
+Sie ist mutig.; de; 1
+Ich bin feige.; de; 1
+Er ist gelassen.; de; 1
+Ich bin hektisch.; de; 1
+Ich bin intelligent.; de; 1
+Er ist dumm.; de; 1
+Ich bin ehrgeizig.; de; 1
+Sie ist humorvoll.; de; 1
+Sie ist nett.; de; 1
+Sie ist unfreundlich.; de; 1
+das Gefühl, die Gefühle; de; 1
+Ich freue mich!; de; 1
+Ich muss lachen.; de; 1
+die Trauer - nur Singular; de; 1
+Ich bin traurig.; de; 1
+Ich muss weinen.; de; 1
+Ich bin wütend.; de; 1
+Ich habe Angst.; de; 1
+Ich bin geschockt.; de; 1
+Ich bin überrascht.; de; 1
+Ich schäme mich.; de; 1
+Ich bin verwirrt.; de; 1
+Mir ist langweilig.; de; 1
+Er ist sehr krank.; de; 1
+Gute Besserung!; de; 1
+der Unfall, die Unfälle; de; 1
+der Tod, die Tode - Plural selten; de; 1
+Er ist gestorben.; de; 1
+Sie trauert.; de; 1
+der Friedhof, die Friedhöfe; de; 1
+Herzliches Beileid.; de; 1
+die Hochzeit, die Hochzeiten; de; 1
+die Geburt, die Geburten; de; 1
+der Geburtstag, die Geburtstage; de; 1
+Ich gratuliere dir!; de; 1
+Herzlichen Glückwunsch!; de; 1
+Das ist schön.; de; 1
+Das freut mich für dich.; de; 1
+Gut gemacht!; de; 1
+Ich bin stolz auf dich.; de; 1
+der Geburtstag, die Geburtstage; de; 1
+Ich habe Geburtstag.; de; 1
+Ich feiere meinen Geburtstag.; de; 1
+die Einladung, die Einladungen; de; 1
+Ich möchte dich zu meinem Geburtstag einladen.; de; 1
+Was wünschst du dir?; de; 1
+Du musst mir nichts schenken.; de; 1
+Ich wünsche mir ein Buch.; de; 1
+das Geschenk, die Geschenke; de; 1
+der Geburtstagskuchen, die Geburtstagskuchen; de; 1
+der Feiertag, die Feiertage; de; 1
+(das) Weihnachten, (die) Weihnachten - Plural selten, selten mit Artikel; de; 1
+Frohe Weihnachten!; de; 1
+Wir feiern Weihnachten mit der Familie.; de; 1
+der Heiligabend, die Heiligabende - Plural selten; de; 1
+(das) Silvester, (die) Silvester - Plural selten, selten mit Artikel; de; 1
+Guten Rutsch!; de; 1
+Frohes neues Jahr!; de; 1
+(das) Ostern, (die) Ostern - Plural selten, selten mit Artikel; de; 1
+Frohe Ostern!; de; 1
+das Osterei, die Ostereier; de; 1
+der Tag der Deutschen Einheit - nur Singular; de; 1
+Was wünschst du dir?; de; 1
+Ich wünsche mir Gesundheit.; de; 1
+Ich wünsche mir Geld.; de; 1
+Ich wünsche mir ein neues Auto.; de; 1
+Ich wünsche mir Frieden auf der Welt.; de; 1
+Ich möchte eine Weltreise machen.; de; 1
+Ich möchte ein Café eröffnen.; de; 1
+Ich möchte studieren.; de; 1
+Ich möchte einen guten Job.; de; 1
+Ich würde gerne eine Firma gründen.; de; 1
+Ich würde gerne ein Buch schreiben.; de; 1
+Ich träume von einem besseren Leben.; de; 1
+Genau!; de; 1
+Oh Mann!; de; 1
+Oh nein!; de; 1
+Wow! - aus dem Englischen; de; 1
+Ouch!; de; 1
+Mist!; de; 1
+Pst!; de; 1
+Gesundheit!; de; 1
+Okay! - aus dem Englischen; de; 1
