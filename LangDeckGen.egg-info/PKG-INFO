@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: LangDeckGen
+Version: 0.0.1
+Summary: A package to produce Anki decks from list of words for language learning including automatic audio and image generation.
+Author: Rogerio Gouvea
+Author-email: <rogeriog.em@gmail.com>
+License: UNKNOWN
+Keywords: python,tts,anki,flashcards,language
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# LangDeckGenerator
+A Python script for creating Language Anki cards. Based on corpus text in a specified language, this is based on the work of errbufferoverfl/pearl-memory
+
+
