@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: LangDeckGen
-Version: 0.0.1
+Version: 0.0.9
 Summary: A package to produce Anki decks from list of words for language learning including automatic audio and image generation.
 Author: Rogerio Gouvea
 Author-email: <rogeriog.em@gmail.com>

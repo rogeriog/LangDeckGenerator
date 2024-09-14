@@ -57,7 +57,8 @@ class AnkiDeck(genanki.Deck):
                     fields=[card.translation_dict["tl"],
                             card.translation_dict["en"],
                             f"[sound:{card.audio.split('/')[-1]}]",
-                            f"<img src='{card.image.split('/')[-1]}'>"]
+                            ""]
+                            # f"<img src='{card.image.split('/')[-1]}'>"]
                     ))
 
         return notes

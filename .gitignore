@@ -1,1 +1,38 @@
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore specific files
 my_generate_deck.py
+Fr_newwords.txt
+Fr_vocab.txt
+MANIFEST.in
+phrlist_de_RM_S03E01.txt
+phrlist_fr_RM_S03E01.txt
+phrlist_fr_TheWheelofTime.txt
+phrlist_RM_S03E01.txt
+setup.py
+tmp_stretched.wav
+tmp.wav
+
+# Ignore Anki packages
+*.apkg
+
+# Ignore build files and directories
+*.pyc
+*.egg
+*.egg-info
+build/
+
+# Ignore cache files
+movie_frames/
+tmp/
+
+# Ignore egg-info
+LangDeckGen.egg-info/
+
+# Ignore specific image files
+LangDeckGen/memecaption/images/
+LangDeckGen/__pycache__/
+
+# Ignore template images
+LangDeckGen/templates/memecaption/images/

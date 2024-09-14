@@ -1,1 +1,2 @@
 LangDeckGen
+LangDeckGen/templates/

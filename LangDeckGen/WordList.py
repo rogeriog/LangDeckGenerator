@@ -17,6 +17,10 @@ import wget
 class WordList:
     def __init__(self, lang, index):
         self.lang = lang
+        if index == 'automatic':
+            self.i_idx = 0
+            self.f_idx = None
+            self.length = None
         if isinstance(index,int):
             print(f'Length of WordList specified: {index}.')
             self.f_idx = index
@@ -24,7 +28,10 @@ class WordList:
             self.length = index
         elif isinstance(index,list):
             self.i_idx, self.f_idx = index
-            self.length = self.f_idx - self.i_idx
+            if self.f_idx is not None:
+                self.length = self.f_idx - self.i_idx
+            else:
+                self.length = None
             print(f'Wordlists starts and end at: {self.i_idx} {self.f_idx}')
         self.rawlist = ""
         self.translation_list = []
@@ -80,6 +87,15 @@ class WordList:
             logging.critical(f"Unable to load '{csv_file}'. Check it is populated.")
             sys.exit(errno.EIO)
         else:
-            #print(translation_list)
-            #sys.exit()
             self.translation_list=translation_list[self.i_idx:self.f_idx] ## returns list up to length specified
+    
+    def filterWordList(self, entries_to_filter):
+        new_translation_list = []
+        list_included=[]
+        for sublist in self.translation_list:
+            if sublist[0] not in entries_to_filter:
+                if sublist[0] not in list_included:
+                    print('included',list_included)
+                    new_translation_list.append(sublist)
+                    list_included.append(sublist[0])
+        self.translation_list=new_translation_list
