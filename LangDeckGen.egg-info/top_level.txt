@@ -1,2 +1,0 @@
-LangDeckGen
-LangDeckGen/templates/
