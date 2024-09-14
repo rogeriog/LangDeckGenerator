@@ -1,3 +1,10 @@
+"""
+LangDeck.py — Class for Managing Language Deck Creation
+
+This module facilitates the creation of Anki decks using word frequency lists. It automates the process of 
+generating cards from the word list, packaging the deck, and managing media resources.
+"""
+
 import genanki
 from LangDeckGen.AnkiCard import AnkiCard
 from LangDeckGen import WordList
@@ -16,6 +23,23 @@ class LangDeck:
         self.clearMedia()
 
     def createLangDeck(self, deck_name, wordlist, **kwargs) -> AnkiDeck:
+        """
+        Creates an Anki deck from the word list, chunking the entries and generating cards in batches.
+
+        Parameters:
+        - deck_name (str): The name of the deck to be created.
+        - wordlist (WordList): The word list used to generate the cards.
+        - **kwargs: Optional parameters for Anki card creation, including `chunk_size` (default: 10).
+
+        Process:
+        - Chunks the word list into smaller parts (default: 10 words).
+        - Creates an AnkiCard for each word in the chunk.
+        - Packages the deck after every chunk and waits for 60 seconds between chunks to avoid server overload.
+
+        Returns:
+        - AnkiDeck: An Anki deck object containing the generated notes and cards.
+        """
+        
         def chunk_list (mylist,x):
             return [mylist[i:i+x] for i in range(0, len(mylist), x)]
         deck_name = deck_name.replace(" ","-")
@@ -48,6 +72,17 @@ class LangDeck:
         return deck
 
     def packageLangDeck(self,deck,**kwargs):
+        """
+        Packages the Anki deck into a format that can be exported as an .apkg file.
+
+        Parameters:
+        - deck (AnkiDeck): The deck to be packaged.
+        - **kwargs: Optional media list to include with the deck.
+
+        Returns:
+        - genanki.Package: A package that can be written to file.
+        """
+        
         def package_deck(new_deck: genanki.Deck, media: list) -> genanki.Package:
             TL_package = genanki.Package(new_deck)
             TL_package.media_files = media
@@ -56,8 +91,20 @@ class LangDeck:
         return package
 
     def outputLangDeck(self,package):
+        """
+        Writes the packaged Anki deck to an .apkg file.
+
+        Parameters:
+        - package: The packaged Anki deck to output.
+
+        Process:
+        - Writes the .apkg file using the name of the deck.
+        """
         package.write_to_file(f"{self.deck_name}.apkg")
 
     def clearMedia(self):
+        """
+        Cleans up media files (images, audio) by removing temporary directories used for media handling.
+        """
         shutil.rmtree("./tmp/imgs")
         shutil.rmtree("./tmp/sound")

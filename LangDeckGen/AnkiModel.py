@@ -1,12 +1,21 @@
-from pathlib import Path
+"""
+AnkiModel.py — Class for Creating Anki Models
 
+This module extends the genanki.Model class to create custom Anki models with fields, templates, and CSS for card styling.
+It supports different configurations for cards based on the presence of phrases.
+"""
+from pathlib import Path
 import genanki
 import LangDeckGen
 from LangDeckGen import AnkiTemplates
 import os
-import random
-
 class AnkiModel(genanki.Model):
+    """
+    Class: AnkiModel
+    
+    Extends the genanki.Model class to define custom Anki models with specific fields, templates, and CSS.
+    Supports models with fields for words and phrases, or just for words.
+    """
     try: 
         os.mkdir("./tmp")
     except Exception as e:
@@ -52,6 +61,15 @@ class AnkiModel(genanki.Model):
     css = css_file.open().read()
 
     def __init__(self, **kwargs):
+        """
+        Initializes the AnkiModel object with fields, templates, and CSS.
+
+        If 'PhrasesOnly' is set to True, it creates a model with only fields for phrases.
+        Otherwise, it creates a model with fields for both words and phrases.
+
+        Parameters:
+        - kwargs: Additional keyword arguments, including 'PhrasesOnly'.
+        """
         if not kwargs.get("PhrasesOnly"):
             super(AnkiModel, self).__init__(name="Simple Vocabulary",
                                             model_id=self.__create_id("Simple Vocabulary"), 
@@ -66,6 +84,15 @@ class AnkiModel(genanki.Model):
                                             css=self.css)
 
     def __create_id(self,name : str):
+        """
+        Creates a unique model ID based on the model name.
+
+        Parameters:
+        - name (str): The name of the model.
+
+        Returns:
+        - id (int): A unique ID for the model.
+        """
         id=0
         for char in name:
             id+=ord(char)
@@ -73,5 +100,8 @@ class AnkiModel(genanki.Model):
 
 
     def __str__(self):
+        """
+        Returns a string representation of the AnkiModel object, including the model ID.
+        """
         return f"<AnkiModel {self.model_id}>"
 
