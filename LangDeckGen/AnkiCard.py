@@ -127,7 +127,7 @@ class AnkiCard:
                 query_string=self.translation_dict["en"]
                 gotFigure=True
                 try:
-                    downloader.download(query_string, limit=3,  output_dir='tmp', adult_filter_off=False, force_replace=False, timeout=60, verbose=True)  ## by default bing downloader will create a folder for every query inside output_dir
+                    downloader.download(query_string, limit=3,  output_dir='tmp', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)  ## by default bing downloader will create a folder for every query inside output_dir
                 except:
                     gotFigure=False
 

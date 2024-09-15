@@ -72,7 +72,6 @@ class WordList:
         Downloads the raw word list from the Hermit Dave repository and stores it as `rawlist`.
         """
         self.rawlist=self.__download_raw_word_list()
-#        self.__process_list(self.rawlist)
 
     def __download_raw_word_list(self):
         """
