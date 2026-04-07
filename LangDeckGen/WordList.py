@@ -70,8 +70,14 @@ class WordList:
     def downloadWordList(self):
         """
         Downloads the raw word list from the Hermit Dave repository and stores it as `rawlist`.
+        Skips download if the file already exists locally.
         """
-        self.rawlist=self.__download_raw_word_list()
+        filename = f"{self.lang}_50k.txt"
+        if Path(filename).exists():
+            logging.info(f"Word list '{filename}' already exists. Skipping download.")
+            self.rawlist = filename
+        else:
+            self.rawlist = self.__download_raw_word_list()
 
     def __download_raw_word_list(self):
         """

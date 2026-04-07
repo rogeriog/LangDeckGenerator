@@ -46,7 +46,8 @@ class LangDeck:
         anki_model = AnkiModel(**kwargs)
         anki_cards = list()
         chunk_size=kwargs.get('chunk_size',10)
-        for chunk in chunk_list(wordlist.translation_list,chunk_size):
+        chunks = chunk_list(wordlist.translation_list,chunk_size)
+        for i, chunk in enumerate(chunks):
             ## this loop inserts entries, chunk_size entries at a time
             for entry in chunk:
                 word,lang=map(str.strip,entry[:2])
@@ -64,10 +65,12 @@ class LangDeck:
             deck_notes = deck.create_notes(anki_model,**kwargs)
             for note in deck_notes:
                 deck.add_note(note)
-            logging.info("Waiting 60 s to start next chunk of cards...")
-            sleep(60) ## sleep so site doesnt complain
             package=self.packageLangDeck(deck,**kwargs)
             self.outputLangDeck(package) ## generates partial deck every 10 new entries
+            # Sleep between chunks, but not after the last one
+            if i < len(chunks) - 1:
+                logging.info("Waiting 60 s to start next chunk of cards...")
+                sleep(60)
         #self.clearMedia()
         return deck
 

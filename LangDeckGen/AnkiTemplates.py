@@ -44,9 +44,9 @@ MODEL_TEMPLATES = [
 <div style='font-family: Arial; font-size: 14px;'>{{hint:Phr2_EN}}</div><br>
 {{/Phr2_TL}}
 
-{{#Dict_Entry}}
-<div style='font-family: Arial; font-size: 14px;'>{{hint:Dict_Entry}}</div><br>
-{{/Dict_Entry}}
+<div style='font-family: Arial; font-size: 12px; margin-top: 10px; border-top: 1px solid #ccc; padding-top: 5px;'>
+<strong>Dictionary:</strong> {{Dict_Entry}}
+</div>
         """
     },]
 MODEL_TEMPLATES_PHR = [

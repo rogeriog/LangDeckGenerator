@@ -14,7 +14,7 @@ from io import BytesIO
 from bs4 import BeautifulSoup
 from slugify import slugify
 import time
-from googletrans import Translator
+from deep_translator import GoogleTranslator as Translator
 from gtts import gTTS
 import LangDeckGen
 from LangDeckGen.memecaption import meme
@@ -25,7 +25,65 @@ from bing_image_downloader import downloader
 import validators
 from pathlib import Path
 language_code={'fr':'french','de':'german','sv':'swedish','fi':'finnish','es':'spanish'}
+# Mapping from 2-letter codes to Tatoeba's 3-letter ISO 639-3 codes
+tatoeba_lang_map={'de':'deu','fr':'fra','es':'spa','sv':'swe','fi':'fin','en':'eng'}
 WAIT_TIME=2
+
+
+def get_tatoeba_sentences(query_word, source_lang_code, target_lang_code='eng', max_results=2):
+    """
+    Searches the Tatoeba API for sentences containing a specific word
+    and returns those sentences along with their translations.
+    Returns a flat list: [source1, translation1, source2, translation2, ...]
+    """
+    url = "https://dev.tatoeba.org/en/api_v0/search"
+    
+    params = {
+        "query": query_word,
+        "from": source_lang_code,
+        "to": target_lang_code,
+        "sort": "relevance"
+    }
+    
+    sentences = []
+    
+    try:
+        response = requests.get(url, params=params)
+        response.raise_for_status()
+        data = response.json()
+        
+        results = data.get("results", [])
+        
+        if not results:
+            return []
+        
+        for result in results[:max_results]:
+            source_sentence = result.get("text", "")
+            
+            # Tatoeba nests translations, grab the first direct translation
+            translations_list = result.get("translations", [])
+            target_sentence = ""
+            
+            if translations_list and len(translations_list) > 0:
+                for translation_group in translations_list:
+                    for translation in translation_group:
+                        if isinstance(translation, dict) and "text" in translation:
+                            target_sentence = translation["text"]
+                            break
+                    if target_sentence:
+                        break
+            
+            if source_sentence and target_sentence:
+                sentences.append(source_sentence)
+                sentences.append(target_sentence)
+                
+            if len(sentences) >= 4:
+                break
+                
+    except requests.exceptions.RequestException as e:
+        logging.warning(f"Tatoeba API error for '{query_word}': {e}")
+    
+    return sentences
 
 
 def suppressOutput(func):
@@ -76,11 +134,11 @@ class AnkiCard:
 
     def __translate_word(self, word,**kwargs):
         translation_dict = {"en": "", "tl": ""}
-        translator = Translator()
+        translator = Translator(source=self.lang, target='en')
         translation_dict["tl"]=word
         time.sleep(WAIT_TIME)
         print('word',word)
-        translation_dict["en"]=translator.translate(word, src=self.lang, dest='en').text
+        translation_dict["en"]=translator.translate(word)
         if kwargs.get('back',False):    ## override tranlation with what was given
             translation_dict["en"]=kwargs['back']
 
@@ -239,28 +297,45 @@ class AnkiCard:
                 return full_imgname
 
     def __get_example_sentence(self):
-        language_ext=language_code[self.lang]
-        req = requests.get(f"https://context.reverso.net/translation/{language_ext}-english/{self.translation_dict['tl']}",
-                           headers={'User-Agent': 'Mozilla/5.0'})
-        time.sleep(WAIT_TIME)
-        soup = BeautifulSoup(req.text, 'lxml')
-        sentences = [x.text.strip() for x in soup.find_all('span', {'class': 'text'}) if '\n' in x.text]
-        if len(sentences) == 0 : # empty
-            sentences=["-","-","-","-","-"]
-        sentences.extend(["-","-","-","-","-"]) ## to be on safe side to have sentences filled.
+        """
+        Fetches example sentences using Tatoeba API.
+        Returns a flat list: [source1, translation1, source2, translation2].
+        """
+        # Get the 3-letter language code for Tatoeba
+        source_lang_3letter = tatoeba_lang_map.get(self.lang, self.lang)
+        
+        try:
+            # Call Tatoeba API to get sentences with translations
+            sentences = get_tatoeba_sentences(
+                self.translation_dict['tl'], 
+                source_lang_3letter, 
+                target_lang_code='eng',
+                max_results=2
+            )
+            
+            if len(sentences) == 0:
+                logging.warning(f"No Tatoeba sentences found for '{self.translation_dict['tl']}'")
+                
+        except Exception as e:
+            logging.warning(f"Error fetching Tatoeba sentences: {e}")
+            sentences = []
+        
+        # Pad with "-" if we don't have enough sentences
+        while len(sentences) < 4:
+            sentences.append("-")
+        
         return sentences[:4]
 
     def __get_dictionary_entry(self):
-        language_ext=language_code[self.lang]
-        req = requests.get(f"https://dictionary.reverso.net/{language_ext}-english/{self.translation_dict['tl']}",
-                   headers={'User-Agent': 'Mozilla/5.0'})
-        soup = BeautifulSoup(req.text, 'html.parser')
-        html_dict_entry=soup.find('div', {'id':"TableHTMLResult"})
-        ## to remove some bad formatted icons  ## but it doesnt hide everything anymore now, try to fix later
-#        html_dict_entry = re.sub("\<!-- google_ad_section_end --\>.*\<!-- end Block with commentaries --\>", '', str(html_dict_entry),0,re.DOTALL)
-#        html_dict_entry="<div>\n"+html_dict_entry+"\n</div>"
-#        html_dict_entry= re.sub("</div>\s*$","",str(html_dict_entry),0,re.DOTALL)
-        return str(html_dict_entry)
+        """
+        Returns a link to the Reverso Context page for the word.
+        This provides example sentences and context translations.
+        """
+        language_ext = language_code[self.lang]
+        reverso_url = f"https://context.reverso.net/translation/{language_ext}-english/{self.translation_dict['tl']}"
+        
+        # Return a simple link to the Reverso Context page
+        return f'<div><a href="{reverso_url}" target="_blank">{reverso_url}</a></div>'
 
 
 

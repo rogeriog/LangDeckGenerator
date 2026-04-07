@@ -6,6 +6,7 @@ Main script for creating an Anki deck from a word list and phrases.
 
 import logging
 import os
+from dotenv import load_dotenv
 from LangDeckGen.WordList import WordList
 from LangDeckGen.LangDeck import LangDeck
 
@@ -16,8 +17,13 @@ def main():
     # Configure logging to display informational messages
     logging.basicConfig(level=logging.INFO)
 
+    # Load environment variables from .env file
+    load_dotenv()
+
     # Set API key for Pixabay (otherwise bing images will be used)
-    os.environ['PIXABAY_KEY'] = 'API-KEY-FOR-PIXABAY'
+    # Get from .env file or environment variable
+    if not os.environ.get('PIXABAY_KEY'):
+        logging.warning("PIXABAY_KEY not found in environment. Bing images will be used.")
 
     # Initialize a WordList object with the language code and number of entries
     myWordList = WordList("de", 25)

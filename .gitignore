@@ -36,3 +36,30 @@ LangDeckGen/__pycache__/
 
 # Ignore template images
 LangDeckGen/templates/memecaption/images/
+
+# Ignore environment variables
+.env
+
+# Ignore IDE and editor files
+.history/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore test cache
+.pytest_cache/
+coverage/
+
+# Ignore node modules (if any)
+node_modules/
